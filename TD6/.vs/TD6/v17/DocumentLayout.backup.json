@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\TD7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\TD7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CCA86DF-FAB8-4776-9D7B-BB5AD0385FB7}|TD6\\TD6.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD6\\TD6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CCA86DF-FAB8-4776-9D7B-BB5AD0385FB7}|TD6\\TD6.vcxproj|solutionrelative:TD6\\TD6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TD7.cpp",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\TD7.cpp",
+              "RelativeDocumentMoniker": "TD7\\TD7.cpp",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\TD7.cpp",
+              "RelativeToolTip": "TD7\\TD7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T18:43:23.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TD6.cpp",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD6\\TD6.cpp",
+              "RelativeDocumentMoniker": "TD6\\TD6.cpp",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD6\\TD6.cpp",
+              "RelativeToolTip": "TD6\\TD6.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T09:19:59.028Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

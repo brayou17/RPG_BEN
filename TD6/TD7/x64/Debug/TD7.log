@@ -1,0 +1,8 @@
+﻿  Personnage.cpp
+D:\Game Academy\Projet internet\Astar\RPG_BEN\TD6\TD7\Personnage.cpp(123,27): warning C4244: 'return' : conversion de 'int' en 'float', perte possible de données
+  PNJ.cpp
+  Race.cpp
+  TD7.cpp
+  Génération de code en cours...
+D:\Game Academy\Projet internet\Astar\RPG_BEN\TD6\TD7\Race.cpp(90,1): warning C4715: 'Race::getNameRace' : les chemins de contrôle ne retournent pas tous une valeur
+  TD7.vcxproj -> D:\Game Academy\Projet internet\Astar\RPG_BEN\TD6\x64\Debug\TD7.exe
