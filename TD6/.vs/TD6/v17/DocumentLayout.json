@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Armures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Armures.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Armes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Armes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Consommables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\Consommables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\TD7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{19AA8F96-7A98-4050-9A57-FABD32CA7117}|TD7\\TD7.vcxproj|solutionrelative:TD7\\TD7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -23,6 +47,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Armures.cpp",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.cpp",
+              "RelativeDocumentMoniker": "TD7\\Armures.cpp",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.cpp",
+              "RelativeToolTip": "TD7\\Armures.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T19:38:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Consommables.cpp",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.cpp",
+              "RelativeDocumentMoniker": "TD7\\Consommables.cpp",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.cpp",
+              "RelativeToolTip": "TD7\\Consommables.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T19:30:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Consommables.h",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.h",
+              "RelativeDocumentMoniker": "TD7\\Consommables.h",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Consommables.h",
+              "RelativeToolTip": "TD7\\Consommables.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T19:28:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Armures.h",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.h",
+              "RelativeDocumentMoniker": "TD7\\Armures.h",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armures.h",
+              "RelativeToolTip": "TD7\\Armures.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T19:28:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Armes.cpp",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.cpp",
+              "RelativeDocumentMoniker": "TD7\\Armes.cpp",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.cpp",
+              "RelativeToolTip": "TD7\\Armes.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T19:20:13.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Armes.h",
+              "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.h",
+              "RelativeDocumentMoniker": "TD7\\Armes.h",
+              "ToolTip": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\Armes.h",
+              "RelativeToolTip": "TD7\\Armes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T19:10:35.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TD7.cpp",
               "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD7\\TD7.cpp",
               "RelativeDocumentMoniker": "TD7\\TD7.cpp",
@@ -35,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "TD6.cpp",
               "DocumentMoniker": "D:\\Game Academy\\Projet internet\\Astar\\RPG_BEN\\TD6\\TD6\\TD6.cpp",
               "RelativeDocumentMoniker": "TD6\\TD6.cpp",

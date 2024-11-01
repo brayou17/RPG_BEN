@@ -127,12 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Armes.cpp" />
+    <ClCompile Include="Armures.cpp" />
+    <ClCompile Include="Consommables.cpp" />
     <ClCompile Include="Personnage.cpp" />
     <ClCompile Include="PNJ.cpp" />
     <ClCompile Include="Race.cpp" />
     <ClCompile Include="TD7.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Armes.h" />
+    <ClInclude Include="Armures.h" />
+    <ClInclude Include="Consommables.h" />
     <ClInclude Include="Personnage.h" />
     <ClInclude Include="PNJ.h" />
     <ClInclude Include="Race.h" />
