@@ -8,6 +8,7 @@ Personnage::Personnage(std::string _name, int _level, int _skillPoints, float _l
 {
 	name = _name;
 	level = _level;
+	life = _life;
 	stamina = _stamina;
 	speed = _speed;
 	alignment = _alignment;
